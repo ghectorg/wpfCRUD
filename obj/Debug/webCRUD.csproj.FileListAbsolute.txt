@@ -1,0 +1,17 @@
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\bin\Debug\webCRUD.exe.config
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\bin\Debug\webCRUD.exe
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\bin\Debug\webCRUD.pdb
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.csprojAssemblyReference.cache
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\App.g.cs
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD_MarkupCompile.cache
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD_MarkupCompile.lref
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\MainWindow.baml
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.g.resources
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.Properties.Resources.resources
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.csproj.GenerateResource.cache
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.exe
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\webCRUD.pdb
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\Views\Principal.g.cs
+C:\Users\Miguel Abdallah\Dropbox\PC\Documents\C#\webCRUD\webCRUD\obj\Debug\Views\Principal.baml
