@@ -96,7 +96,11 @@ namespace webCRUD
 
             ds = con.ExecuteQueryDS("SelectAllPerson", true, con.ConnectionStringCON_DBCRUD());
 
+            DataTable dt = new DataTable();
 
+            dt.Load(ds.CreateDataReader());
+
+            datagrid.ItemsSource = dt.DefaultView; 
 
 
         }
